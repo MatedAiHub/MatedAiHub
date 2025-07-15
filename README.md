@@ -95,26 +95,6 @@ Take a visual tour of MatedAiHub's powerful features and user-friendly interface
 
 ---
 
-## 🛠️ Installation & Setup
-
-MatedAiHub features a quick and easy web-based installer that guides you through the setup process.
-
-**Before Installation:**
-*   Ensure your server meets the [Server Requirements](https://docs.matedaihub.com/#server-requirements).
-*   Create a MySQL/MariaDB database.
-
-**Installation Steps:**
-1.  Upload all files to your web server.
-2.  Navigate to `yourdomain.com/install/` in your browser.
-3.  Follow the on-screen instructions (server checks, database details, admin account creation, license verification).
-4.  **CRITICAL:** Delete the `/install/` directory and `database/schema.sql` after successful installation for security.
-
-**Essential Post-Installation Steps:**
-*   Configure your AI providers and API keys in the Admin Panel.
-*   Set up crucial Cron Jobs for automation (RSS fetching, AI bots, newsletters). Details and commands are available in your Admin Panel and the [Documentation](https://docs.matedaihub.com/#understanding-cron-jobs).
-
----
-
 ## 📚 Documentation & Support
 
 For comprehensive guides on installation, configuration, management, and troubleshooting, please refer to our official documentation.
