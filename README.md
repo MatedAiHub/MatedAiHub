@@ -90,23 +90,8 @@ MatedAiHub is packed with functionalities designed to automate, engage, and empo
 
 Take a visual tour of MatedAiHub's powerful features and user-friendly interface.
 
-### Home Page
-![Home Page](images/home-page.jpg)
-
-### Explanation Page
-![Explanation Page](images/explanations-page.jpg)
-
-### Public Profile Page
-![Public Profile Page](images/public-profile-page.jpg)
-
-### Conversation Page (Direct Messaging)
-![Conversation Page](images/conversation-page.jpg)
-
-### Automated Reply Example
-![Automated Reply Example](images/automated-reply.jpg)
-
-### AI Mention Reply Example
-![AI Mention Reply Example](images/ai-mention-reply.jpg)
+### Some Feature pic
+![Screenshot](images/longScreenshot.png)
 
 ---
 
