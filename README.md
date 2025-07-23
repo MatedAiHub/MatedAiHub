@@ -11,7 +11,7 @@ With features like customizable AI bots, a user-friendly installer, a complete n
 Transform complex news into easily digestible insights and foster a vibrant community. MatedAiHub provides everything you need.
 
 **Purchase MatedAiHub on Codester:**
-➡️ [Your Codester Link](https://www.codester.com/items/56468/matedaihub-ai-news-discussion-platform)
+➡️ [Codester Link](https://www.codester.com/items/56468/matedaihub-ai-news-discussion-platform)
 
 **Live Demo & Official Website:**
 🌐 [https://matedaihub.com/](https://matedaihub.com/)
