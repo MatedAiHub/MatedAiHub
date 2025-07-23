@@ -1,6 +1,8 @@
-# MatedAiHub - AI News Explanation & Community Platform
+# MatedAiHub - The Ultimate AI Community Hub
 
-**MatedAiHub is a powerful and modern PHP script that allows you to create your own AI-powered news explanation and community discussion platform.** Automatically fetch news from any RSS feed, generate clear and concise explanations using top AI models like OpenAI's GPT and Google's Gemini, and build an engaging community around the content.
+## AI News Explanation & Social Platform
+
+**MatedAiHub is a powerful and modern PHP script that allows you to create your own AI-powered news explanation platform, supercharged with a fully-featured social network.** It elevates user engagement by integrating a complete, Twitter-style social network right alongside the explained news. Automatically fetch content from any RSS feed, generate clear explanations using top AI models like OpenAI's GPT and Google's Gemini, and build a vibrant community where users can post updates, follow others, and discuss topics in threaded conversations.
 
 With features like customizable AI bots, a user-friendly installer, a complete newsletter system, and robust administrative controls, MatedAiHub is the perfect solution for anyone looking to launch a unique content platform. It's built with modern technologies, is secure, and highly customizable to fit your needs.
 
@@ -22,6 +24,21 @@ Transform complex news into easily digestible insights and foster a vibrant comm
 
 MatedAiHub is packed with functionalities designed to automate, engage, and empower your platform.
 
+### 🚀 Social Network & Real-time Interaction
+
+*   **Twitter-Style Social Feed:** A dynamic main timeline with "For You" and "Following" tabs to keep users engaged.
+*   **Create & Share Posts:** Users can create posts with text, images, videos, and interactive polls.
+*   **Threaded Conversations:** Full support for replies, creating deep and engaging discussion threads.
+*   **Reposts & Quote Posts:** Allow users to share content with or without their own commentary.
+*   **Emoji Reactions:** Users can react to posts with a range of emojis.
+*   **Bookmarks:** A personal space for users to save posts for later.
+*   **Direct Messaging:** A complete one-on-one real-time chat system with message reactions, replies, and pinning.
+*   **Rich User Profiles:** Beautiful profiles with cover photos, avatars, and dedicated tabs for posts, replies, and media.
+*   **Hashtag & Mention System:** Automatic detection and linking of `#hashtags` and `@mentions`.
+*   **Live Updates:** New posts and replies appear in real-time on timelines and threads without needing a page reload (via Long Polling).
+*   **Discovery Tools:** Explore trending hashtags and discover new users to follow.
+*   **Verification System:** Admins can grant official verification badges to users through a managed request system.
+
 ### 🧠 AI & Automation
 
 *   **Multi-Provider AI Integration:** Seamlessly switch between top AI models like OpenAI (GPT), Google (Gemini), DeepSeek, and any other compatible custom API.
@@ -34,11 +51,9 @@ MatedAiHub is packed with functionalities designed to automate, engage, and empo
 *   **Customizable System Prompts for All AI Tasks:** Fine-tune the tone, style, and persona of your AI's responses.
 *   **Configurable AI Behavior:** Control AI creativity (Temperature) and response length (Token Limits).
 
-### 💬 Community & User Engagement
+### 💬 Community & Engagement (Explanations)
 
-*   **User Profiles:** Rich public profiles showcasing user activity, contributions, and social links.
-*   **Follow System:** Allow users to follow their favorite contributors.
-*   **Personalized "My Feed" Page:** Users get a custom content stream from accounts they follow.
+*   **Rich Public Profiles:** Showcase user activity, contributions, and social links related to explanations.
 *   **Voting System:** Upvote/downvote explanations and comments to highlight quality content.
 *   **Points & Gamification System:** Reward active users for their contributions.
 *   **Admin-Creatable Custom Badges:** Recognize top contributors with achievement badges.
@@ -46,12 +61,11 @@ MatedAiHub is packed with functionalities designed to automate, engage, and empo
 *   **Autonomous AI Community Bots:**
     *   **Auto-Reply Bots:** Proactively engage in discussions by automatically posting replies to new user comments.
     *   **Mention-based AI Bots:** Users can directly mention bots (e.g., `@summarize`) in comments for on-demand AI assistance.
-*   **Direct Messaging:** Users can engage in private, real-time conversations with each other directly through the platform, including features like message pinning, and reactions.
 
 ### 👑 Powerful Admin Panel
 
 *   **Central Dashboard for Core Settings:** Manage global AI, content, email, and localization settings.
-*   **Full Content Management:** Search, view, edit (manual posts), and delete any explanation and associated comments.
+*   **Full Content Management:** Search, view, edit (manual posts), and delete any explanation, social post, and associated comments.
 *   **Custom Static Page Creator:** Easily create and manage pages like "About Us" or "Privacy Policy" with Markdown support.
 *   **Comprehensive User Management:** Suspend, delete, manually confirm users, and oversee ad block requests.
 *   **Dedicated Management for All AI Providers & Bots:** Configure and monitor all AI entities.
@@ -80,7 +94,7 @@ MatedAiHub is packed with functionalities designed to automate, engage, and empo
 *   **Full Multi-Language Support:** Easily translate the entire front-end interface.
 *   **Admin-Managed Languages via Simple JSON Files:** Add and edit translations directly from the admin panel.
 *   **RTL (Right-to-Left) Language Support:** Adapts layout automatically for languages like Arabic or Hebrew.
-*   **Fully Responsive Design:** Built with Bootstrap 5 for a seamless experience on any device.
+*   **Fully Responsive Design:** A seamless experience on any device.
 *   **User-Selectable Dark & Light Modes:** Provides a comfortable viewing experience.
 *   **Robust Cron Job System:** Essential for all background automated tasks.
 
@@ -92,6 +106,13 @@ Take a visual tour of MatedAiHub's powerful features and user-friendly interface
 
 ### Some Feature pic
 ![Screenshot](images/longScreenshot.png)
+
+### Screenshot Suggestions for Social Features
+*   **Social Feed:** A view of the `/timeline` page showing the "For You" and "Following" tabs, with various posts including images and polls.
+*   **Thread View:** A screenshot of a post's detailed view (`/posts/{id}`) showing a main post and several nested replies below it.
+*   **User Social Profile:** A user's public social profile (`/username`) showcasing their cover photo, avatar, follower counts, and the tabs for their posts and replies.
+*   **Direct Messaging:** A view of the `/messages` page with a conversation open, showing the real-time chat interface.
+*   **Post Creation Modal:** A screenshot of the modal window used for creating a new post, with the poll or media options visible.
 
 ---
 
@@ -107,7 +128,3 @@ For comprehensive guides on installation, configuration, management, and trouble
 ## 📄 License
 
 MatedAiHub is a commercial software product distributed under a proprietary license. Please refer to the `LICENSE` file included in your download or the [License Information in the documentation](https://docs.matedaihub.com/#license-information) for full details.
-
----
-
-**Thank you for choosing MatedAiHub! We're excited to see what you build.**
