@@ -4,6 +4,8 @@
 
 Imagine a website where complex news articles are automatically transformed into simple, easy-to-understand explanations by top AI models like GPT and Gemini. Now, imagine that content sparking lively discussions in a built-in social feed where users can post, reply, follow each other, and chat in real-time. **That is the power of MatedAiHub.**
 
+![alt text](images/preview.jpg)
+
 Whether you want to build a niche community, an automated content site, or a full-fledged social platform, MatedAiHub provides the powerful, secure, and modern foundation you need to launch in hours, not months.
 
 ---
