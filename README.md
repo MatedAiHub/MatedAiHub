@@ -85,7 +85,7 @@ MatedAiHub is engineered from the ground up with a comprehensive feature set des
 
 A visual tour of MatedAiHub's powerful, clean, and user-friendly interface.
 
-*(Here you can add your `longScreenshot.png`)*
+*(`longScreenshot.png`)*
 ![MatedAiHub Features Showcase](images/longScreenshot.png)
 
 **New Social Features in Action:**
