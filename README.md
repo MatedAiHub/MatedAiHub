@@ -1,130 +1,110 @@
-# MatedAiHub - The Ultimate AI Community Hub
+### **MatedAiHub - The Ultimate AI Community Hub**
 
-## AI News Explanation & Social Platform
+**MatedAiHub is a revolutionary PHP script that empowers you to create a vibrant, AI-driven platform where intelligent content meets social connection.** It's more than just a script; it's a complete, dual-function solution that merges an automated news explanation engine with a feature-rich, Twitter-style social network.
 
-**MatedAiHub is a powerful and modern PHP script that allows you to create your own AI-powered news explanation platform, supercharged with a fully-featured social network.** It elevates user engagement by integrating a complete, Twitter-style social network right alongside the explained news. Automatically fetch content from any RSS feed, generate clear explanations using top AI models like OpenAI's GPT and Google's Gemini, and build a vibrant community where users can post updates, follow others, and discuss topics in threaded conversations.
+Imagine a website where complex news articles are automatically transformed into simple, easy-to-understand explanations by top AI models like GPT and Gemini. Now, imagine that content sparking lively discussions in a built-in social feed where users can post, reply, follow each other, and chat in real-time. **That is the power of MatedAiHub.**
 
-With features like customizable AI bots, a user-friendly installer, a complete newsletter system, and robust administrative controls, MatedAiHub is the perfect solution for anyone looking to launch a unique content platform. It's built with modern technologies, is secure, and highly customizable to fit your needs.
+Whether you want to build a niche community, an automated content site, or a full-fledged social platform, MatedAiHub provides the powerful, secure, and modern foundation you need to launch in hours, not months.
 
 ---
 
-## 🚀 Get Started Today!
+### 🚀 **Launch Your Vision Today!**
 
-Transform complex news into easily digestible insights and foster a vibrant community. MatedAiHub provides everything you need.
+Stop just sharing information—start building a community around it. MatedAiHub gives you all the tools to create a destination site that users will love and return to daily.
 
 **Purchase MatedAiHub on Codester:**
-➡️ [Codester Link](https://www.codester.com/items/56468/matedaihub-ai-news-discussion-platform)
+➡️ [Link to Codester Product Page](https://www.codester.com/items/56468/matedaihub-ai-news-discussion-platform)
 
-**Live Demo & Official Website:**
+**Explore the Live Demo & Official Website:**
 🌐 [https://matedaihub.com/](https://matedaihub.com/)
 
 ---
 
-## ✨ Key Features at a Glance
+### ✨ **Features That Set MatedAiHub Apart**
 
-MatedAiHub is packed with functionalities designed to automate, engage, and empower your platform.
+MatedAiHub is engineered from the ground up with a comprehensive feature set designed to automate, engage, and empower your platform.
 
-### 🚀 Social Network & Real-time Interaction
+### 🚀 **Social Posts & Community**
+*   **Twitter-Style Social Feed:** A dynamic main timeline with "For You" (algorithmic) and "Following" (chronological) tabs.
+*   **Create & Share Posts:** Users can create posts with text, images, videos, and **interactive polls**.
+*   **Full Conversation Features:** Engage with replies, reposts, and quote posts.
+*   **Emoji Reactions:** Go beyond likes with a full range of emoji reactions on posts.
+*   **User Bookmarks:** Allow users to save their favorite posts for later.
+*   **Follow/Unfollow System:** Build a true social graph within your community.
+*   **Smart Content Detection:** Automatic detection and linking of `#hashtags` and `@mentions`.
+*   **Discovery Tools:** Dedicated pages for exploring trending hashtags and discovering new users.
+*   **Verification System:** Reward trusted users with custom, admin-created verification badges via a managed request system.
+*   **Intelligent AI Bots:**
+    *   **AI Mention Bots:** Users can directly mention AI bots in any post or reply for instant, on-demand answers.
+    *   **AI Auto-Reply Bots:** Keep your community active 24/7 with configurable bots that automatically reply to new posts to spark conversation.
 
-*   **Twitter-Style Social Feed:** A dynamic main timeline with "For You" and "Following" tabs to keep users engaged.
-*   **Create & Share Posts:** Users can create posts with text, images, videos, and interactive polls.
-*   **Threaded Conversations:** Full support for replies, creating deep and engaging discussion threads.
-*   **Reposts & Quote Posts:** Allow users to share content with or without their own commentary.
-*   **Emoji Reactions:** Users can react to posts with a range of emojis.
-*   **Bookmarks:** A personal space for users to save posts for later.
-*   **Direct Messaging:** A complete one-on-one real-time chat system with message reactions, replies, and pinning.
-*   **Rich User Profiles:** Beautiful profiles with cover photos, avatars, and dedicated tabs for posts, replies, and media.
-*   **Hashtag & Mention System:** Automatic detection and linking of `#hashtags` and `@mentions`.
-*   **Live Updates:** New posts and replies appear in real-time on timelines and threads without needing a page reload (via Long Polling).
-*   **Discovery Tools:** Explore trending hashtags and discover new users to follow.
-*   **Verification System:** Admins can grant official verification badges to users through a managed request system.
+### 🧠 **AI & Automation**
+*   **Multi-Provider AI Integration:** Use any provider you want, including OpenAI (GPT), Google (Gemini), and more.
+*   **Intelligent Provider Fallback:** If your primary AI provider fails, the system automatically switches to the next one, ensuring zero downtime.
+*   **Automated Content from RSS:** Pull content from any RSS feed and let the AI automatically write explanations.
+*   **Advanced Content Crawling:** The script can read the full text of an article, not just the RSS snippet, providing richer context for the AI.
+*   **"Brain Use" AI Pre-check:** A smart pre-check system evaluates headlines to decide if they're worth explaining, saving you significant API costs.
+*   **AI-Powered Generation:** Automatically create not just explanations, but also catchy **titles**, concise **summaries**, and **sentiment analysis** for every article.
+*   **Total Control:** Customize the system prompts for every AI task and fine-tune AI behavior with temperature and token limit controls.
 
-### 🧠 AI & Automation
+### 💬 **Community & User Engagement (Explanations)**
+*   **Rich User Profiles:** Public profiles showcase a user's explanations, comments, points, and badges.
+*   **Voting System:** Classic upvote/downvote system for both explanations and comments to surface the best content.
+*   **Points & Gamification:** Automatically award points for positive contributions (posting, getting upvoted) to keep users motivated.
+*   **Admin-Created Badges:** Design and award custom badges for different achievement levels.
+*   **Real-time Notification System:** Users get instant alerts for replies, mentions, votes, and follows.
 
-*   **Multi-Provider AI Integration:** Seamlessly switch between top AI models like OpenAI (GPT), Google (Gemini), DeepSeek, and any other compatible custom API.
-*   **Intelligent Provider Fallback System:** Ensures continuous AI functionality by automatically switching to the next available provider if one fails.
-*   **Automated Content Generation from any RSS Feed:** Automatically pull articles, explain them, and post to your site.
-*   **Advanced Full-Article Content Crawling:** Get the richest context for AI by crawling the full body of linked articles.
-*   **"Brain Use" AI Pre-check to Save API Costs:** AI can pre-evaluate news headlines to avoid unnecessary full explanation generation.
-*   **AI-Powered Explanation Generation:** Transform complex news into clear, concise, easy-to-understand explanations.
-*   **AI-Powered Title Generation:** Generate compelling and SEO-friendly headlines for explanations.
-*   **Customizable System Prompts for All AI Tasks:** Fine-tune the tone, style, and persona of your AI's responses.
-*   **Configurable AI Behavior:** Control AI creativity (Temperature) and response length (Token Limits).
+### 👑 **Powerful Admin Panel**
+*   **Central Dashboard:** A single place to manage all core site settings.
+*   **Full Content Management:** Moderate and manage every explanation and social post.
+*   **Custom Page Creator:** Easily build pages like "About Us" or "Privacy Policy" with a simple Markdown editor.
+*   **Comprehensive User Management:** View, edit, suspend, delete, and manually verify users.
+*   **Dedicated Bot Management:** Separate interfaces for managing all AI providers and every type of bot.
+*   **Monetization Ready:** Place ads in multiple, strategically-chosen slots throughout the site.
+*   **Ad-Free System:** Manage user requests for an ad-free experience.
+*   **Full-Featured Newsletter System:** Everything from SMTP setup and template editing to job scheduling and subscriber management is built-in.
+*   **Total Customization:** Control everything from your site's name and logo to character limits on user posts.
+*   **Advanced SEO Tools:** Configure your URL structure (e.g., `id-slug`), meta tags, Open Graph data, and generate your sitemap with one click.
+*   **Code Injection:** Easily add tracking codes like Google Analytics to your header or footer.
+*   **PWA Configuration:** Turn your site into an installable Progressive Web App with custom icons and colors.
+*   **Performance Tools:** Manage your site's cache (application, assets, PHP OPcache) for maximum speed.
+*   **Security Controls:** Protect your API with a built-in rate limiting system.
 
-### 💬 Community & Engagement (Explanations)
-
-*   **Rich Public Profiles:** Showcase user activity, contributions, and social links related to explanations.
-*   **Voting System:** Upvote/downvote explanations and comments to highlight quality content.
-*   **Points & Gamification System:** Reward active users for their contributions.
-*   **Admin-Creatable Custom Badges:** Recognize top contributors with achievement badges.
-*   **Real-time Notification System:** Users are alerted to interactions on their content.
-*   **Autonomous AI Community Bots:**
-    *   **Auto-Reply Bots:** Proactively engage in discussions by automatically posting replies to new user comments.
-    *   **Mention-based AI Bots:** Users can directly mention bots (e.g., `@summarize`) in comments for on-demand AI assistance.
-
-### 👑 Powerful Admin Panel
-
-*   **Central Dashboard for Core Settings:** Manage global AI, content, email, and localization settings.
-*   **Full Content Management:** Search, view, edit (manual posts), and delete any explanation, social post, and associated comments.
-*   **Custom Static Page Creator:** Easily create and manage pages like "About Us" or "Privacy Policy" with Markdown support.
-*   **Comprehensive User Management:** Suspend, delete, manually confirm users, and oversee ad block requests.
-*   **Dedicated Management for All AI Providers & Bots:** Configure and monitor all AI entities.
-*   **Monetization via Multiple Ad Slots:** Strategically place ad code (e.g., Google AdSense) in various site locations.
-*   **Ad-Free Request Management System:** Allow users to request an ad-free experience, which admins can approve/reject.
-*   **Full-Featured Newsletter System:**
-    *   SMTP Configuration.
-    *   Transactional Email Template Editor.
-    *   Newsletter Template Creator.
-    *   Newsletter Job Scheduling & Management.
-    *   Subscriber Management.
-*   **Site Identity Customization:** Set site name, upload logo, favicon, etc.
-*   **Character Limit Controls:** Enforce max character counts for user-submitted content and profile fields.
-*   **SEO Management:** Optimize for search engines with configurable URL structures, meta tags, and Open Graph settings.
-*   **Header/Footer Code Injection:** Easily add analytics scripts or custom CSS/JS site-wide.
-*   **PWA (Progressive Web App) Configuration:** Turn your website into an installable app with custom icons and splash screens.
-*   **Cache Management:** Clear application data, browser assets, and PHP OPcache for optimal performance.
-*   **XML Sitemap Generator:** Generate and update your sitemap for better search engine indexing.
-*   **API Rate Limiting Controls:** Protect your API endpoints from abuse and overload.
-
-### ⚙️ Technical & Platform Features
-
-*   **Secure, Web-Based Installer:** User-friendly setup process with automated server environment checks.
-*   **Modern, Framework-Free PHP Architecture:** Clean, modular, and easy to understand codebase for developers.
-*   **Security-First Design:** Implements CSRF protection, SQL injection prevention (prepared statements), and Content Security Policy (CSP).
-*   **Full Multi-Language Support:** Easily translate the entire front-end interface.
-*   **Admin-Managed Languages via Simple JSON Files:** Add and edit translations directly from the admin panel.
-*   **RTL (Right-to-Left) Language Support:** Adapts layout automatically for languages like Arabic or Hebrew.
-*   **Fully Responsive Design:** A seamless experience on any device.
-*   **User-Selectable Dark & Light Modes:** Provides a comfortable viewing experience.
-*   **Robust Cron Job System:** Essential for all background automated tasks.
+### ⚙️ **Technical & Platform Features**
+*   **Secure Web Installer:** A user-friendly, step-by-step installer with server requirement checks gets you running in minutes.
+*   **Modern, Framework-Free PHP:** A clean, organized, and easy-to-understand codebase built for performance and customization.
+*   **Security-First Design:** Built-in protection against CSRF, SQL injection (with prepared statements), and other common vulnerabilities.
+*   **Full Multi-Language Support:** Includes **16 pre-translated languages**, including RTL support for languages like Arabic. Manage all translations easily through the admin panel.
+*   **Responsive & Modern UI:** A beautiful, clean interface built with Tailwind CSS and DaisyUI that looks stunning on any device.
+*   **User-Selectable Themes:** Built-in dark and light modes for user comfort.
+*   **Robust Cron Job System:** Handles all critical background tasks like content generation and bot replies reliably.
 
 ---
 
-## 📸 Screenshots
+### 📸 **Screenshots**
 
-Take a visual tour of MatedAiHub's powerful features and user-friendly interface.
+A visual tour of MatedAiHub's powerful, clean, and user-friendly interface.
 
-### Some Feature pic
-![Screenshot](images/longScreenshot.png)
+*(Here you can add your `longScreenshot.png`)*
+![MatedAiHub Features Showcase](images/longScreenshot.png)
 
-### Screenshot Suggestions for Social Features
-*   **Social Feed:** A view of the `/timeline` page showing the "For You" and "Following" tabs, with various posts including images and polls.
-*   **Thread View:** A screenshot of a post's detailed view (`/posts/{id}`) showing a main post and several nested replies below it.
-*   **User Social Profile:** A user's public social profile (`/username`) showcasing their cover photo, avatar, follower counts, and the tabs for their posts and replies.
-*   **Direct Messaging:** A view of the `/messages` page with a conversation open, showing the real-time chat interface.
-*   **Post Creation Modal:** A screenshot of the modal window used for creating a new post, with the poll or media options visible.
+**New Social Features in Action:**
+*   **Reels Feed:** A screenshot of the ` /reels` page showing the vertical video scroll.
+*   **Direct Messaging:** A view of the `/messages` page showing an active conversation.
+*   **AI Mention Reply:** A screenshot of a post thread where a user has mentioned a bot (`@AIHelper`) and the bot has replied below it.
+*   **AI Auto-Reply:** A screenshot of a new post where an AI bot has automatically posted the first reply to start a conversation.
 
 ---
 
-## 📚 Documentation & Support
+### 📚 **Documentation & Support**
 
-For comprehensive guides on installation, configuration, management, and troubleshooting, please refer to our official documentation.
+We provide comprehensive, step-by-step guides to help you get the most out of MatedAiHub.
 
 *   **Official Documentation:** [https://docs.matedaihub.com/](https://docs.matedaihub.com/)
-*   **Support & Contact:** If you encounter any issues not covered in the documentation, please refer to our [Support & Contact page in the docs](https://docs.matedaihub.com/#support-contact).
+*   **Support & Contact:** For any assistance, please reach out to us via our official support channels listed in the documentation.
 
 ---
 
-## 📄 License
+### 📄 **License**
 
-MatedAiHub is a commercial software product distributed under a proprietary license. Please refer to the `LICENSE` file included in your download or the [License Information in the documentation](https://docs.matedaihub.com/#license-information) for full details.
+MatedAiHub is a commercial software product. Your purchase grants you a license to use the script according to the terms on Codester. All rights reserved by MatedAiDev.
